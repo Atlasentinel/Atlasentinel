@@ -19,7 +19,14 @@
 
 ## 💡 Soft Skills
 
-<marquee scrollamount="5"> Passionate - Determined - Patient - Curious - Analytical - Creative - Adaptable </marquee>
+ 🔥 **Passionate** 
+ 👊🏾 **Determined** 
+ ⌛ **Patient** 
+ 🧐 **Curious**
+ 
+ 🔎 **Analytical** 
+ 💡 **Creative** 
+ 🦾 **Adaptable**
 
 ## 📈 GitHub Statistics
 
