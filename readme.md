@@ -43,7 +43,7 @@
 ## 🌐 My Projects
 
 - [PORTFOLIO](https://github.com/Atlasentinel/portfolio): Here is the portfolio that describes my journey, made with ReactJS.
-- [BREAKOUT](https://github.com/Atlasentinel/casse_brique_java): A small Breakout game made with Java Spring Framework.
+- [CASSE BRIQUE](https://github.com/Atlasentinel/casse_brique_java): A small Breakout game made with Java Spring Framework.
 - [BASTION]: A project for securing access to an infrastructure, made with ReactJS (private).
 
 Thank you for visiting my profile! If you have any questions or would like to collaborate, feel free to contact me. 🙌
