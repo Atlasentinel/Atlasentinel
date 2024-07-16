@@ -10,10 +10,10 @@ Bienvenue sur mon profil GitHub! 🎉
 
 ## 🔧 Compétences Techniques
 
-- **Langages de programmation:** JavaScript, Python, Java, C#
-- **Frameworks et bibliothèques:** React, Node.js, VueJS
+- **Langages de programmation:** JavaScript, Python, Java, C#, PHP
+- **Frameworks et bibliothèques:** React, Node.js, VueJS, Symfony
 - **Bases de données:** MySQL, PostgreSQL
-- **Outils et plateformes:** Docker, AWS, Git,Github, GitLab, GitKraken, Postman,
+- **Outils et plateformes:** Docker, AWS, Git, Github, GitLab, GitKraken, Postman,
 
 ## 📈 Statistiques GitHub
 
