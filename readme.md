@@ -30,10 +30,5 @@ Bienvenue sur mon profil GitHub! 🎉
 - [CASSE BRIQUE](https://github.com/Atlasentinel/casse_brique_java): Un petit casse brique fais en Java Framework Spring.
 - [BASTION]: Projet de sécurisation des accès à une infrastructure fait en ReactJs (privée).
 
-## 🏆 Réalisations
-
-- 🌟 [Récompense ou réalisation 1]
-- 🏅 [Récompense ou réalisation 2]
-- 🎖️ [Récompense ou réalisation 3]
 
 Merci de visiter mon profil! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter. 🙌
