@@ -37,7 +37,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [atlasentinel@outlook.com](mailto:atlasentinel@outlook.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noe-ziadi-770255211)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/noé-ziadi-770255211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🐦Twitter: [Atlasentinel](https://x.com/atlasentinel)
 
 ## 🌐 My Projects
