@@ -23,7 +23,7 @@
  👊🏾 **Determined** 
  ⌛ **Patient** 
  🧐 **Curious**
- 
+
  🔎 **Analytical** 
  💡 **Creative** 
  🦾 **Adaptable**
@@ -37,7 +37,8 @@
 ## 📫 Contact Me
 
 - 📧 Email: [atlasentinel@outlook.com](mailto:atlasentinel@outlook.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noe-zaidi-770255211)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noe-ziadi-770255211)
+- 🐦Twitter: [Atlasentinel](https://x.com/atlasentinel)
 
 ## 🌐 My Projects
 
