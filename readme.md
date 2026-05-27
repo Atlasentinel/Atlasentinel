@@ -30,9 +30,7 @@
 
 ## 📈 GitHub Statistics
 
-![Atlasentinel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atlasentinel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlasentinel&theme=tokyonight)
+![Atlasentinel's GitHub Stats](https://profile-summary-for-github.com/user/Atlasentinel)
 
 ## 📫 Contact Me
 
